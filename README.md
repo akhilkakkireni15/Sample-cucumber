@@ -103,4 +103,4 @@ For example a JUnit formatter:
 
     -Dcucumber.options="--plugin junit:target/cucumber-junit-report.xml"
     
-    <script>alert(1)</script>
+<script>alert(1)</script>
